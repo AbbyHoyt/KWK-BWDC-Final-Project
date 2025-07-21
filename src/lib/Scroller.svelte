@@ -16,10 +16,10 @@
 
 <style>
     .wrapper {
-        background-color: #f7f5eb;
+        background-color: #55423d;
         padding: min(100vh, 30rem) 1rem;
         border-style: solid;
-        border-color: #4096fa;
+        border-color: #55423d;
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
@@ -52,8 +52,8 @@
         top: 50vh;
         transform: translateY(-50%);
         display: flex;
-        align-items: center;
-        justify-content: center;
+        /*align-items: center;
+        justify-content: center;*/
         z-index: 0;
     }
 

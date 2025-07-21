@@ -11,7 +11,7 @@
 
 <style>
     .title-card {
-        background-color: #007052;
+        background-color: #55423d;
         height: 100vh;
         display: flex;
         justify-content: center;
@@ -23,25 +23,29 @@
     }
 
     .content {
-        max-width: 700px;
-        background-color: #034c36;
+        max-width: 900px;
+        background-color: #271c19;
         padding: 2rem;
-        border: 6px solid #e3ff00;
-        border-radius: 2rem;
-        box-shadow: 16px 16px #188f70;
+        /*border: 6px solid #e78fb3;*/
+        border-radius: 5px;
+        /*box-shadow: 16px 16px #ffc0ad;*/
+        box-shadow: rgb(150, 86, 161) 0px 0px 0px 6px, rgb(231, 143, 179) 0px 0px 0px 12px;
     }
 
     h1 {
         font-size: 3rem;
         margin: 0;
-        color: #e3ff00;
-        text-shadow: 1px 1px 0 #007052;
+        color: #ffc0ad;
+        font-size: 45px;
+        font-family: "Winky Rough", sans-serif;
+        /*text-shadow: 1px 1px 0 #ffc0ad;*/
     }
 
     p {
         font-size: 1.3rem;
-        color: #f7f5eb;
+        color: #fffffe;
         margin-top: 1rem;
+        font-family: "Manrope", sans-serif;
     }
 
     @media (max-width: 600px) {
