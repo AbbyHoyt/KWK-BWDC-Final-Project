@@ -100,6 +100,8 @@
             </div>-->
 
             <img src="girlWritingMath.jpg" alt="Girl facing and writing on a whiteboard.">
+            <br>
+            <p class="caption">Image from <a href="https://unsplash.com/photos/woman-in-black-long-sleeve-shirt-GzDrm7SYQ0g" target="_blank">ThisIsEngineering</a> on Unsplash.</p>
 
             <br>
 
@@ -195,6 +197,15 @@
     img {
         box-shadow: rgb(150, 86, 161) 0px 0px 0px 4px, rgb(231, 143, 179) 0px 0px 0px 8px;
         border-radius: 5px;
-        width: 80%;
+        width: 70%;
+    }
+
+    .caption {
+        text-align: center;
+        color: #fffffe;
+        font-family: "Manrope", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        margin: 0px;
     }
 </style>
