@@ -26,9 +26,7 @@
         max-width: 900px;
         background-color: #271c19;
         padding: 2rem;
-        /*border: 6px solid #e78fb3;*/
         border-radius: 5px;
-        /*box-shadow: 16px 16px #ffc0ad;*/
         box-shadow: rgb(150, 86, 161) 0px 0px 0px 6px, rgb(231, 143, 179) 0px 0px 0px 12px;
     }
 
@@ -38,7 +36,6 @@
         color: #ffc0ad;
         font-size: 45px;
         font-family: "Winky Rough", sans-serif;
-        /*text-shadow: 1px 1px 0 #ffc0ad;*/
     }
 
     p {

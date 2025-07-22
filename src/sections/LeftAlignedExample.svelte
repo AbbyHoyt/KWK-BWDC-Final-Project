@@ -99,12 +99,12 @@
                 </p>
             </div>-->
 
-            <img src="girlWritingMath.jpg">
+            <img src="girlWritingMath.jpg" alt="Girl facing and writing on a whiteboard.">
 
             <br>
 
             <p>
-               The <a href="https://blackwealthdata.org" target="_blank">Black Wealth Data Center</a>'s 
+               The above chart displays the <a href="https://blackwealthdata.org" target="_blank">Black Wealth Data Center</a>'s 
                visual on STEM vs. Non-STEM Employment Rates Among 25-34 Year Olds With a STEM Degree.
             </p>
 
@@ -153,40 +153,11 @@
         margin: 0px auto;
     }
 
-    /*.toggle-button {
-        margin: 20px;
-        padding: 20px;
-        color: #007052;
-        background-color: #0bd956;
-        border: solid 2px #007052;
-        border-radius: 16px;
-        font-size: large;
-        cursor: pointer;
-        transition: all 0.2s ease;
-        box-shadow: 0 4px 0 #007052;
-    }
-
-    .toggle-button:active {
-        transform: translateY(2px);
-        box-shadow: 0 2px 0 #007052;
-    }*/
-
     img {
         width: 85%;
         margin-right: auto;
         margin-left: auto;
         display: block;
-    }
-
-    h1 {
-        font-family: "Winky Rough", sans-serif;
-        color: #ffc0ad;
-        margin: 0px;
-        font-size: 45px;
-        /*background-color: #271c19;
-        border-radius: 5px;
-        padding: 5px 10px;
-        box-shadow: rgb(150, 86, 161) 0px 0px 0px 4px, rgb(231, 143, 179) 0px 0px 0px 8px;*/
     }
 
     p {
@@ -219,5 +190,11 @@
     .dataText {
         font-family: "Winky Rough", sans-serif;
         color: #e78fb3;
+    }
+
+    img {
+        box-shadow: rgb(150, 86, 161) 0px 0px 0px 4px, rgb(231, 143, 179) 0px 0px 0px 8px;
+        border-radius: 5px;
+        width: 80%;
     }
 </style>

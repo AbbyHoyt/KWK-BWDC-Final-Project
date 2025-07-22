@@ -80,8 +80,6 @@
                 <a href="https://www.highcharts.com/">Highcharts</a>!
             </p>-->
 
-            <!--<img src="duck.png">-->
-
             <br>
             <br>
 
@@ -101,11 +99,6 @@
             <p>
                 Regardless of race or gender, everyone deserves to be represented in 
                 STEM and have their voice heard.
-            </p>
-
-            <p>
-                Keep scrolling to learn more about STEM employment rates in the US for those
-                with STEM degrees...
             </p>
         {/snippet}
 
@@ -165,7 +158,6 @@
     .scrollImage {
         width: 75%;
         border-radius: 5px;
-        /*box-shadow: rgb(150, 86, 161) 0px 0px 0px 4px, rgb(231, 143, 179) 0px 0px 0px 8px;*/
     }
 
     h1 {
@@ -173,10 +165,6 @@
         color: #ffc0ad;
         margin: 0px;
         font-size: 45px;
-        /*background-color: #271c19;
-        border-radius: 5px;
-        padding: 5px 10px;
-        box-shadow: rgb(150, 86, 161) 0px 0px 0px 4px, rgb(231, 143, 179) 0px 0px 0px 8px;*/
     }
 
     p {
