@@ -104,8 +104,8 @@
             <br>
 
             <p>
-               The above chart displays the <a href="https://blackwealthdata.org" target="_blank">Black Wealth Data Center</a>'s 
-               visual on STEM vs. Non-STEM Employment Rates Among 25-34 Year Olds With a STEM Degree.
+               The above chart displays a visual from the <a href="https://blackwealthdata.org" target="_blank">Black Wealth Data Center</a> 
+               on STEM vs. Non-STEM Employment Rates Among 25-34 Year Olds With a STEM Degree.
             </p>
 
             <p>
