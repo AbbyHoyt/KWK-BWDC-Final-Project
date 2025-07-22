@@ -126,7 +126,7 @@
             <ArticleText>
                 <div class="dataNoticing">
                     <h2>2</h2>
-                    <p>Only <i class="dataText">20.7%</i> of Black women with STEM degrees were employed in STEM as of 2021, making them the least represented group.</p>
+                    <p>Only <i class="dataText">20.7%</i> of Black women with STEM degrees were employed in STEM in 2021, making them the least represented group.</p>
                 </div>
             </ArticleText>
 
